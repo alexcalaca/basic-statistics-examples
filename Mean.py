@@ -4,7 +4,7 @@
 Reach me at alexcalaca@gmail.com
 """
 
-""""
+"""
 The mean is the average of the numbers.
 It is easy to calculate: add up all the numbers, then divide by how many numbers there are.
 """
